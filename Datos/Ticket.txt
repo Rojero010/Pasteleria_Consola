@@ -1,0 +1,7 @@
+Ticket
+Fecha:2020-12-08
+Numero de pedido: 1
+Pastel: Pastel Milky Way
+Cantidad: 1
+Subtotal: 300.0
+Total: 300.0
